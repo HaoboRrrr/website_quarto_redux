@@ -1,0 +1,8 @@
+---
+title: "Welcome to Haobo's website"
+---
+
+Welcome to my website
+
+My name is Haobo Ren, This is my third year in U of T
+I'm currently in Statistics Specialist program.
